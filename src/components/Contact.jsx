@@ -117,6 +117,7 @@ const Contact = () => {
               placeholder='Please leave me a message...'
               className='bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
             />
+            <p>@leewellmacharia10@gmail.com</p>
           </label>
 
           <button
