@@ -131,8 +131,8 @@ import {
     {
       testimonial:
         "I thought it was impossible to make a website as beautiful as our product, but the Code-city team proved me wrong.",
-      name: "Leila Jean",
-      designation: "Chief Engineer",
+      name: "Leila Jeanne",
+      designation: "CTO",
       company: "WellCent io",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
