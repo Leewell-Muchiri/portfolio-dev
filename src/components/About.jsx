@@ -49,9 +49,7 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         I am a passionate web developer keen on joining like-minded developers in providing creative solutions. As an active
-        listener who takes great interest in technology, I am constantly eager to engage the world and collaborate with others to
-        use technology as a gateway towards innovative solutions for complex problems. I am constantly improving my skills and
-        challenging myself to offer exemplary solutions.
+        listener who takes great interest in technology, I am constantly eager to engage the world and collaborate with others to use technology as a gateway towards innovative solutions for complex problems. I am constantly improving my skills and challenging myself to offer exemplary solutions.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
